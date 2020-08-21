@@ -16,3 +16,5 @@ def age_appropriate_birthday(birthday_kids)
     age <= 12 ? "OK" : "NO"
   end
 end
+
+puts age_appropriate_birthday(birthday_kids)
