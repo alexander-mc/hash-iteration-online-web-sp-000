@@ -1,0 +1,1 @@
+1 < 2 ? puts "One is less than two!" : puts "One is not less than two"
