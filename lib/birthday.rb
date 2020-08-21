@@ -16,5 +16,3 @@ def age_appropriate_birthday(birthday_kids)
     puts "Happy Birthday #{kids_name}! You are now #{age} years old!"if age <= 12
   end
 end
-
-age_appropriate_birthday(birthday_kids)
